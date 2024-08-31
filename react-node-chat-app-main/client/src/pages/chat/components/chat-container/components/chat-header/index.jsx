@@ -5,7 +5,7 @@ import { HOST } from "@/lib/constants";
 import { getColor } from "@/lib/utils";
 import VideoCall from "@/components/ui/VideoCall";
 import { useNavigate } from "react-router-dom";
-import Background from "/Web Dev Projects/ChatMingle/react-node-chat-app-main/client/src/assets/video-calling.png"
+import Background from "/Web Dev Projects/ChatMingle/react-node-chat-app-main/client/src/assets/video-calling-BtYxmS4a.png"
 const ChatHeader = () => {
   const { selectedChatData, closeChat, selectedChatType } = useAppStore();
 
