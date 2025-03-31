@@ -12,7 +12,7 @@ import channelRoutes from "./routes/ChannelRoutes.js";
 dotenv.config();
 fdsdffsdfsd
 const app = express();
-const port = process.env.PORT;
+const port = process.env.PORT;dsfsfsdfsfd
 const databaseURL = process.env.DATABSE_URL;
 
 app.use(
