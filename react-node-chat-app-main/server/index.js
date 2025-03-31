@@ -16,7 +16,7 @@ const port = process.env.PORT;dsfsfsdfsfd
 const databaseURL = process.env.DATABSE_URL;
 
 app.use(
-  cors({
+  cors({dfgfdgfd
     origin: [process.env.ORIGIN],
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
     credentials: true,
