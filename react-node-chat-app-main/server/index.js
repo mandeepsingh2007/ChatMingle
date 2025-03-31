@@ -10,7 +10,7 @@ import setupSocket from "./socket.js";
 import channelRoutes from "./routes/ChannelRoutes.js";
 
 dotenv.config();
-
+fdsdffsdfsd
 const app = express();
 const port = process.env.PORT;
 const databaseURL = process.env.DATABSE_URL;
