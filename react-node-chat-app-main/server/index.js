@@ -13,7 +13,7 @@ dotenv.config();
 fdsdffsdfsd
 const app = express();
 const port = process.env.PORT;dsfsfsdfsfd
-const databaseURL = process.env.DATABSE_URL;ghgfhfgh
+const databaseURL = process.env.DATABSE_URL;ghgdfgfdgdfgdgffhfgh
 
 app.use(
   cors({dfgfdgfd
