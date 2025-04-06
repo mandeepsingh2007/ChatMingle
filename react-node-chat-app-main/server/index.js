@@ -20,7 +20,7 @@ app.use(
     origin: [process.env.ORIGIN],
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
     credentials: true,
-  })
+  })ererer
 );
 
 app.use("/uploads/profiles", express.static("uploads/profiles"));
