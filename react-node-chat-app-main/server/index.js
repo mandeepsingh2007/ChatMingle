@@ -22,7 +22,7 @@ app.use(
     credentials: true,
   })ererer
 );helloooggggggg
-ffgfgfdg
+ffgfgfdggfggdgdfg
 app.use("/uploads/profiles", express.static("uploads/profiles"));
 app.use("/uploads/files", express.static("uploads/files"));
 
