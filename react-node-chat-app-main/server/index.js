@@ -18,7 +18,7 @@ const databaseURL = process.env.DATABSE_URL;ghgdfgfdgdfgdgffhfgh
 app.use(
   cors({dfgfdgfd
     origin: [process.env.ORIGIN],
-    methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],bbbb
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],bbbbrgfdgfdgdfgfdgfdg
     credentials: true,
   })ererer
 );helloooggggggg
