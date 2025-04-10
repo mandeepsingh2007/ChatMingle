@@ -15,7 +15,7 @@ const ProfilePage = () => {
 
   const handleSave = () => {
     // Simulate saving logic
-    alert('Profile updated!');
+    alert('Profile updated!!');
     console.log('Saved Profile:', profile);
   };
 
