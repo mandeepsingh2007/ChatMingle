@@ -1,6 +1,8 @@
-ChatMingle App 💬
+**ChatMingle App 💬**
+
 A real-time chat application built with the power of the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.io for instant messaging capabilities.
-🌟 Features
+
+**🌟 Features**
 
 Real-time Messaging: Instant message delivery using Socket.io
 User Authentication: Secure login and registration system
@@ -11,7 +13,7 @@ Message History: Persistent chat history stored in MongoDB
 Emoji Support: Express yourself with emojis
 Cross-platform: Works on desktop, tablet, and mobile devices
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Frontend:
 
 React.js
@@ -28,7 +30,7 @@ MongoDB with Mongoose
 bcryptjs for password hashing
 CORS for cross-origin requests
 
-🎯 How to Use
+**🎯 How to Use**
 
 Register: Create a new account with username, email, and password
 Set Avatar: Choose or upload your profile avatar
@@ -36,7 +38,8 @@ Start Chatting: Select contacts and start real-time conversations
 Stay Connected: See online status of your contacts
 Message History: All your conversations are saved automatically
 
-🔌 API Endpoints
+**🔌 API Endpoints**
+
 Authentication Routes
 
 POST /api/auth/register - Register new user
@@ -52,7 +55,7 @@ Message Routes
 POST /api/messages/addmsg - Add new message
 POST /api/messages/getmsg - Get messages between two users
 
-🙏 Acknowledgments
+**🙏 Acknowledgments**
 
 Built following best practices from the MERN stack community
 Inspired by modern chat applications like WhatsApp and Telegram
