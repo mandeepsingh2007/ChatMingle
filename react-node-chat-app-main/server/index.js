@@ -20,7 +20,7 @@ app.use(
     origin: [process.env.ORIGIN],
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],bbbbrgfdgfdgdfgfdgfdg
     credentials: true,
-  })ererer
+  })ererernghghgfhfgh
 );helloooggggggg
 ffgfgfdggfggdgdfgddfsdfsdfsfsdf
 app.use("/uploads/profiles", express.static("uploads/profiles"));
